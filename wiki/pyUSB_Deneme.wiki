@@ -1,4 +1,4 @@
-#labels Featured,Phase-Requirements
+#labels Phase-Support,Featured
 = Karat pyUSB =
 
 Yedi Karat, bilgisayar ile olan iletişimi, Rs232 protokolünün aksine USB protokolü aracılığı ile gerçekleştirmektedir. [USB_Deneme] adı altında verilen örneğin bilgisayar tarafındaki küçük bi script örneği.
