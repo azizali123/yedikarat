@@ -51,4 +51,4 @@ void loop() {
 }
 }}}
 
-Yedi Karat'ın programının içerisindeki "USB Monitor" butonundan açılan pencereden veri alışverişi izlenebilir.
+Yedi Karat'ın programının içerisindeki "USB Monitor" butonundan açılan pencereden veri alışverişi izlenebilir. Ayrıca [pyUSB_Deneme] scriptini kullanarak farklı amaçlar için program geliştirilebilir.
