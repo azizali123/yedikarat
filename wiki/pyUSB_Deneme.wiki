@@ -1,7 +1,7 @@
 #labels Featured,Phase-Requirements
 = Karat pyUSB =
 
-Yedi Karat, bilgisayar ile olan iletişimi, Rs232 protokolünün aksine USB protokolü aracılığı ile gerçekleştirmektedir. USB_Deneme adı altında verilen örneğin bilgisayar tarafındaki küçük bi script örneği.
+Yedi Karat, bilgisayar ile olan iletişimi, Rs232 protokolünün aksine USB protokolü aracılığı ile gerçekleştirmektedir. [USB_Deneme] adı altında verilen örneğin bilgisayar tarafındaki küçük bi script örneği.
 
 == Örnek pyUSB ==
 
